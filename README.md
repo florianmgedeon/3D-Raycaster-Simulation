@@ -2,7 +2,6 @@
 A simple raycasting engine in C, inspired by the classic Wolfenstein 3D, written by my colleague Josef Koupy and me.
 
 ## Overview  
-This project was developed as part of the 42 coding curriculum with **Josef Koupy**.  
 It renders a first-person view of a 2D map using a raycasting algorithm and MiniLibX.
 
 ![cub3D Screenshot](screenshot.jpg)
